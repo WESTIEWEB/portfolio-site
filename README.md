@@ -75,6 +75,6 @@ You will find all the components used, and you can edit your information accordi
 
 Give a ⭐ if you like this website!
 [![GitHub stars](https://img.shields.io/github/stars/WESTIEWEB/portfolio-sit?style=social)](https://github.com/WESTIEWEB/portfolio-sit)
-<a href="YOUR_BMC_LINK" target="_blank">
+<!-- <a href="YOUR_BMC_LINK" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="217px">
-</a>
+</a> -->
