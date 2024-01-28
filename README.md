@@ -69,5 +69,5 @@ You will find all the components used and you can edit your information accordin
 ### Show your support
 
 Give a ⭐ if you like this website!
-
-<a href="https://github.com/WESTIEWEB/portfolio-sit/star" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+[![GitHub stars](https://img.shields.io/github.com/WESTIEWEB/portfolio-sit?style=social)](https://github.com/WESTIEWEB/portfolio-sit)
+<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
